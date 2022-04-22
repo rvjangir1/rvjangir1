@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Vikash Jangir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vikash-j-98360a1a//)](https://www.linkedin.com/in/vikash-j-98360a1a/)
 <!--[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-) -->
-
+[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/aakash--01629954/)
 I'm HealthCare IT professional. Here trying to learn technolgoy related things...
 
 ![Visitor Count](https://profile-counter.glitch.me/rvjangir1/count.svg)
